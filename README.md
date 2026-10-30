@@ -18,7 +18,7 @@ I enjoy hackathons and turning real problems into working products. Open to **in
 ### 🏆 Highlights
 - 🥇 **Space Hackathon Winner**: Sudarshan Chakra 3D, a 3D satellite tracking and orbit visualisation
 - 🥇 **Cognition Event Winner**: Meal Connect, food-waste prediction linked to NGOs
-- 🎓 CGPA **9.4**, B.Tech Computer Science Engineering (2025 to 2029)
+- 🎓 CGPA **9.28**, B.Tech Computer Science Engineering (2025 to 2029)
 
 ### 🛠️ Featured projects
 | Project | What it does | Stack |
