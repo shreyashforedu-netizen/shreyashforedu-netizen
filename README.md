@@ -5,7 +5,7 @@
 **Full-Stack Developer · IoT Enthusiast · AI/ML Explorer**
 Computer Science Engineering @ SIES Graduate School of Technology · Navi Mumbai
 
-[Portfolio](YOUR_PORTFOLIO_LINK) · [LinkedIn](https://www.linkedin.com/in/shreyash-patil-08365a38b) · [Email](mailto:shreyashforedu@gmail.com)
+[Portfolio](https://shreyashportfolio16.netlify.app) · [LinkedIn](https://www.linkedin.com/in/shreyash-patil-08365a38b) · [Email](mailto:shreyashforedu@gmail.com)
 
 </div>
 
