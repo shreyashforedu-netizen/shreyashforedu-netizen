@@ -44,6 +44,6 @@ I enjoy hackathons and turning real problems into working products. Open to **in
 
 ### 📊 GitHub activity
 ![Followers](https://img.shields.io/github/followers/shreyashforedu-netizen?style=flat&logo=github&color=2fd0ff)
-![Repos](https://img.shields.io/github/search/shreyashforedu-netizen/shreyashforedu-netizen?style=flat&label=profile%20views&color=2fd0ff)
+
 🐍 Contribution snake
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyashforedu-netizen/shreyashforedu-netizen/output/github-contribution-grid-snake-dark.svg"> <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shreyashforedu-netizen/shreyashforedu-netizen/output/github-contribution-grid-snake.svg"> </picture> </div>
