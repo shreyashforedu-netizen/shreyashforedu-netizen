@@ -42,6 +42,7 @@ I enjoy hackathons and turning real problems into working products. Open to **in
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 📊 GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=shreyashforedu-netizen&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashforedu-netizen&layout=compact&theme=tokyonight&hide_border=true)
+### 📊 GitHub activity
+![Followers](https://img.shields.io/github/followers/shreyashforedu-netizen?style=flat&logo=github&color=2fd0ff)
+![Repos](https://img.shields.io/github/search/shreyashforedu-netizen/shreyashforedu-netizen?style=flat&label=profile%20views&color=2fd0ff)
+![Contributions](https://ghchart.rshah.org/2fd0ff/shreyashforedu-netizen)
